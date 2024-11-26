@@ -1,0 +1,25 @@
+{
+  "nproc": 10,
+  "img_root": "/AODRaw/images/",
+  "ann_file": "/AODRaw/annotations/train_annotations.json",
+  "save_ann_file": "", 
+  "sizes": [
+    1280
+  ],
+  "gaps": [
+    300
+  ],
+  "rates": [
+    1.0
+  ],
+  "img_rate_thr": 0.6,
+  "iof_thr": 0.4,
+  "no_padding": false,
+  "padding_value": [
+    104,
+    116,
+    124
+  ],
+  "save_dir": "/AODRaw/images_slice_srgb",
+  "save_ext": ".JPG"
+}
