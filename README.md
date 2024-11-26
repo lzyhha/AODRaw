@@ -124,8 +124,8 @@ we have provided the downloading links of the annotation files as above.
 
 |  Split | Category |  Images  | Instances |
 | ------ |----------| -------- |  -------  |
-| Train  |    62    |  5,445   |   2,340   |
-| Test   |    62    |  94,949  |   40,652  |
+| Train  |    62    |  5,445   |  94,949  |
+| Test   |    62    |  2,340  |   40,652  |
 
 ### Annotations
 
