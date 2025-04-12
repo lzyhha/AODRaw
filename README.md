@@ -2,6 +2,8 @@
 
 [Paper link](https://arxiv.org/abs/2411.15678)
 
+[Training and Testing](https://github.com/lzyhha/AODRaw-mmdetection)
+
 
 | *RAW and corresponding sRGB images from different conditions* |
 |:--:| 
@@ -28,7 +30,7 @@ Existing object detection methods often consider sRGB input, which was compresse
 
 ## Apps and Sourcecode
 
-- RAW Object Detection: [Our modified mmdetection]()
+- RAW Object Detection: [Our modified mmdetection](https://github.com/lzyhha/AODRaw-mmdetection)
 - Real-time RAW Object Detection: TODO
 
 
