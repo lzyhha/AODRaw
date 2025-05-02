@@ -31,7 +31,6 @@ Existing object detection methods often consider sRGB input, which was compresse
 ## Apps and Sourcecode
 
 - RAW Object Detection: [Our modified mmdetection](https://github.com/lzyhha/AODRaw-mmdetection)
-- Real-time RAW Object Detection: TODO
 
 
 ## Dataset and Downloading
